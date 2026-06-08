@@ -7,3 +7,4 @@ Ama savaşı kazanmana rağmen davetsiz bir misafir askeri üssünün yanında s
 Aman dikkat et!Düşmanına yem olma!Askerlerinin esir alınmasını istemezsin.Sadece askerlerin gitmez paranda gider!
 # Resmi Web Sitesi
 [Web Site](https://sites.google.com/view/the-green-empire-the-game/ana-sayfa)
+![GitHub Downloads](https://img.shields.io/github/downloads/MrGreen10/The-Green-Empire/total)
